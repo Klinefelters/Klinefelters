@@ -1,6 +1,7 @@
 # 💫 About Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klinefelters) 
-Hi, my name is Steven Klinefelter, and I'm an Undergraduate Student studying Mechatronics Engineering at [Elizabethtown College](https://www.etown.edu/). I'm passionate about robotics and I love exploring machine intelligence. Recently, I've been working on a [Python Go Fish Engine](https://github.com/klinefelters/gofishengine), which I plan to use to help introduce new students to Python and programming. I started programming in 2019 for FRC [Team 2539, The Krypton Cougars](https://team2539.com) during the off season of the Deep Space Competition, although I didn't create my github until college. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klinefelters)
+
+Hi, my name is Steven Klinefelter, and I'm an Undergraduate Student studying Mechatronics Engineering at [Elizabethtown College](https://www.etown.edu/). I'm passionate about robotics and I love exploring machine intelligence. Recently, I've been working on a [Python Go Fish Engine](https://github.com/klinefelters/gofishengine), which I plan to use to help introduce new students to Python and programming. I started programming in 2019 for FRC [Team 2539, The Krypton Cougars](https://team2539.com) during the off season of the Deep Space Competition. I'd go on to program for the team in 2020, and 2021, gaining my first experiences in python and the world of computer vision.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=klinefelters&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
